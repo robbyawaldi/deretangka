@@ -1,6 +1,7 @@
 deret = ''
 n = 3
 cond = 3
+
 for i in range(1, 1001):
     if i == cond:
         deret += f'* {i} '
